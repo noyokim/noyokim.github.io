@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://noyokim.github.io/categories/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noyokim.github.io/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noyokim.github.io/categories/newblog/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noyokim.github.io/posts/2020-07-16verb/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noyokim.github.io/posts/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noyokim.github.io/posts/2020-07-15norsk/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noyokim.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://noyokim.github.io/tags/</loc>
+  </url>
+  
+</urlset>
